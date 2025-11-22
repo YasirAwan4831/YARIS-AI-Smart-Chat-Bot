@@ -3,7 +3,7 @@
 
 [![Node.js](https://img.shields.io/badge/Node-%3E%3D16-brightgreen)](https://nodejs.org/)
 [![Built with Vite](https://img.shields.io/badge/Bundler-Vite-FFDB6D)](https://vitejs.dev/)
-[![Status](https://img.shields.io/badge/status-active-success.svg)]
+![Status](https://img.shields.io/badge/status-active-success.svg)
 
 ---
 
@@ -286,7 +286,7 @@ Some status badges to show project progress and quality (optional):
 
 If you liked this project, please consider:
 
- **Starring** the repository on [GitHub](https://github.com/YARIS-AI-Smart-Chat-Bot)  
+ **Starring** the repository on [GitHub](https://github.com/YasirAwan4831/YARIS-AI-Smart-Chat-Bot)  
  **Sharing feedback** on [Asani.pk](https://asani.pk/profile/yasirawan4831)  
  **Following on X (Twitter):** [@yasirawan4831](https://twitter.com/yasirawan4831/)  
  **Connecting on LinkedIn:** [Muhammad Yasir](https://www.linkedin.com/in/yasirawan4831/) 

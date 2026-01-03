@@ -29,7 +29,7 @@
 
 ## About
 
-YARIS — AI Smart Chat Bot is a modern, fully responsive and AI-powered web application designed to deliver fast, intelligent, and human-like conversational experiences.
+YARIS — AI Smart Chat Bot is a modern, fully responsive and AI-powered web application designed to deliver fast, intelligent and human-like conversational experiences.
 The project combines the power of Google Gemini AI, a clean React-based frontend and a lightweight Node.js service layer, making it a perfect fit for:
 
 Internship projects
@@ -47,8 +47,10 @@ With its modular design, clean architecture and developer-friendly workflow, it 
 
 > Add GIF or screenshots of the app here. Example:
 
-* `/screenshort/ofter-login.jpeg` — Chat UI Before logging in
-* `/screenshort/ofter-login.jpeg` — After Login/SingUp
+* `/screenshort/ofter-login.jpeg` — Chat UI Before logging in  ![](screenshort/ofter-login.jpeg)
+
+* `/screenshort/ofter-login.jpeg` — After Login/SingUp ![](screenshort/ofter-login.jpeg)
+
 
 ---
 

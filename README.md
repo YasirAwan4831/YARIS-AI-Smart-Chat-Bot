@@ -288,10 +288,20 @@ Some status badges to show project progress and quality (optional):
 
 If you liked this project, please consider:
 
- **Starring** the repository on [GitHub](https://github.com/YasirAwan4831/YARIS-AI-Smart-Chat-Bot)  
- **Sharing feedback** on [Asani.pk](https://asani.pk/profile/yasirawan4831)  
- **Following on X (Twitter):** [@yasirawan4831](https://twitter.com/yasirawan4831/)  
- **Connecting on LinkedIn:** [Muhammad Yasir](https://www.linkedin.com/in/yasirawan4831/) 
+## 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/yasirawan4831)
+[![Asani](https://img.shields.io/badge/Asani.pk-Profile-green)](https://asani.pk/profile/muhammad-yasir--2)
+[![X (Twitter)](https://img.shields.io/badge/X-@yasirawan4831-black?logo=x)](https://x.com/YasirAwan4831)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Yasir-blue?logo=linkedin)](https://www.linkedin.com/in/yasirawan4831/)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?logo=youtube)](https://www.youtube.com/@YasirTech-t1d)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?logo=instagram)](https://www.instagram.com/yasirawan4831/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=google-chrome)](https://yasirawan4831.github.io/ApexcifyTechnologys-FrontendInternship/task-2/)
+[![Medium](https://img.shields.io/badge/Medium-Blog-black?logo=medium)](https://medium.com/@YasirAwan4831)
+[![Substack](https://img.shields.io/badge/Substack-Newsletter-orange?logo=substack)]([![Substack](https://img.shields.io/badge/Substack-Newsletter-orange?logo=substack)](SUBSTACK_LINK)
+)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)](https://www.facebook.com/profile.php?id=61575935942197)
+
  --- 
 
 Built solely by Muhammad Yasir.
